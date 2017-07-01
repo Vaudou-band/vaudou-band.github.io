@@ -1,0 +1,22 @@
+{
+  "name": "Vaudou",
+  "title": "Vaudou",
+  "version": "1.0.0",
+  "homepage": "https://vaudou-band.github.io/",
+  "author": "Maxime Rafaillac",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-header": "^1.8.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-imagemin": "latest",
+    "gulp-purifycss": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vaudou-band.github.io/"
+  }
+}
